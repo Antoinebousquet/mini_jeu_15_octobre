@@ -1,5 +1,5 @@
-#titremini_jeu_15_octobre
-##titreProjet du 15 octobre
+# mini_jeu_15_octobre
+## Projet du 15 octobre
 
 Bonjour cher.ère correcteur.trice,  
 
