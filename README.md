@@ -1,21 +1,13 @@
-# mini_jeu_15_octobre
+########### mini_jeu_15_octobre
 Projet du 15 octobre
 
 Bonjour cher.ère correcteur.trice,
 
-Après avoir triomphé du premier exercice, j'ai avancé tant bien que mal le deuxième.
-J'espère que tout sera clair, un court guide pour chaque exercice :
+Une attention particulière a été apporté à la construction du second exercice, notammment dans la mise en page.
 
-Exercice 1
+Le seul specs, de l' exercice 1, a été réalisé après coup et ne fonctionne pas...
 
-
-Exercice 2
-
-
-Exercice 3
-
-
-
+L'exercice 3 n'a pas été fait.
 
 Bonne correction,
 Antoine

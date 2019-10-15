@@ -5,6 +5,7 @@ Bundler.require
 require_relative 'lib/game'
 require_relative 'lib/player'
 
+# Pour en jeter plein la vue
 puts "
 -----------------------------------------------------------------------------------------------------------------
  _     _ _     _ _______ _______ __   _      _    _ _______       ______  _____  ______   _____  _______ _______
@@ -143,5 +144,3 @@ else
                                                                      
 "
 end
-
-binding.pry
